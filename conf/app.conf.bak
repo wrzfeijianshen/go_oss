@@ -1,0 +1,9 @@
+
+[oss]
+osstype = 1
+
+[alyoss]
+accessKey = "xxxxx"
+secretKey= "xxxxx"
+bucket = "xxxxx"
+endpoint = "xxxxx"
